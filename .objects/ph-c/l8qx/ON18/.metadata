@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Internship Activity.pdf",
+  "Type": "Screen",
+  "Id": "ON186DuyekO2S8uVmI7ZJA",
+  "Reference": "hGcgiLMrGUuszmJqHR3njA/ON186DuyekO2S8uVmI7ZJA",
+  "ParentRef": "hGcgiLMrGUuszmJqHR3njA/l8qx-swx_kKg-F0I9euBhQ",
+  "Created": "2025-04-29T14:31:35.0001607Z",
+  "Updated": "2025-04-29T14:31:35.0001607Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
